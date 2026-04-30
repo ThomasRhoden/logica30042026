@@ -21,4 +21,6 @@ int main(){
     }else{
         std::cout<<"Até a proxima!"<<std::endl;
     }
+    
+    return 0;
 }
